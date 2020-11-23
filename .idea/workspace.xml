@@ -14,9 +14,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d9ff60e-d54e-4c80-84c4-dca905e91183" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/prime.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter3/Oop/3-10-02.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter3/Oop/3-10-01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter3/Oop/3-10-01.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Chapter3/Oop/3-10-oop.md" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter3/Oop/3-10-oop.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,8 +48,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -50,8 +56,8 @@
       <recent name="C:\Works\learn\python\prime" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.3-8-dict-set">
-    <configuration name="3-3-while-function (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.3-10-02">
+    <configuration name="3-10-01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="prime" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -59,11 +65,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter3/Oop" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter3/3-3-while-function.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter3/Oop/3-10-01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -72,7 +78,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3-3-while-function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="3-10-02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="prime" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,11 +86,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter3/Oop" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Works\learn\python\prime\Chapter3\3-3-while-function.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter3/Oop/3-10-02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,11 +185,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.3-10-02" />
+        <item itemvalue="Python.3-10-01" />
         <item itemvalue="Python.3-8-dict-set" />
         <item itemvalue="Python.3-6-list-tuple" />
         <item itemvalue="Python.3-4-scope-list" />
-        <item itemvalue="Python.3-3-while-function (1)" />
-        <item itemvalue="Python.3-3-while-function" />
       </list>
     </recent_temporary>
   </component>
@@ -208,28 +214,29 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1384" height="262" key="GridCell.Tab.0.bottom" timestamp="1606010543585">
-      <screen x="0" y="0" width="1920" height="1030" />
+    <state width="1874" height="262" key="GridCell.Tab.0.bottom" timestamp="1606112842419">
+      <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state width="1384" height="262" key="GridCell.Tab.0.bottom/0.0.1920.1030@0.0.1920.1030" timestamp="1606010543585" />
-    <state width="1892" height="269" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1605976363232" />
-    <state width="1384" height="262" key="GridCell.Tab.0.center" timestamp="1606010543585">
-      <screen x="0" y="0" width="1920" height="1030" />
+    <state width="1874" height="262" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1606112842419" />
+    <state width="1874" height="262" key="GridCell.Tab.0.center" timestamp="1606112842419">
+      <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state width="1384" height="262" key="GridCell.Tab.0.center/0.0.1920.1030@0.0.1920.1030" timestamp="1606010543585" />
-    <state width="1892" height="269" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1605976363232" />
-    <state width="1384" height="262" key="GridCell.Tab.0.left" timestamp="1606010543585">
-      <screen x="0" y="0" width="1920" height="1030" />
+    <state width="1874" height="262" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1606112842419" />
+    <state width="1874" height="262" key="GridCell.Tab.0.left" timestamp="1606112842419">
+      <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state width="1384" height="262" key="GridCell.Tab.0.left/0.0.1920.1030@0.0.1920.1030" timestamp="1606010543585" />
-    <state width="1892" height="269" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1605976363232" />
-    <state width="1384" height="262" key="GridCell.Tab.0.right" timestamp="1606010543585">
-      <screen x="0" y="0" width="1920" height="1030" />
+    <state width="1874" height="262" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1606112842419" />
+    <state width="1874" height="262" key="GridCell.Tab.0.right" timestamp="1606112842419">
+      <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state width="1384" height="262" key="GridCell.Tab.0.right/0.0.1920.1030@0.0.1920.1030" timestamp="1606010543585" />
-    <state width="1892" height="269" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1605976363232" />
+    <state width="1874" height="262" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1606112842419" />
     <state width="1892" height="312" key="GridCell.Tab.1.bottom" timestamp="1605457332767">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
@@ -246,10 +253,11 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state width="1892" height="312" key="GridCell.Tab.1.right/0.0.1920.1032@0.0.1920.1032" timestamp="1605457332767" />
-    <state x="603" y="57" key="SettingsEditor" timestamp="1606011232685">
-      <screen x="0" y="0" width="1920" height="1030" />
+    <state x="603" y="57" key="SettingsEditor" timestamp="1606102184098">
+      <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="603" y="57" key="SettingsEditor/0.0.1920.1030@0.0.1920.1030" timestamp="1606011232685" />
+    <state x="603" y="57" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1606102184098" />
     <state x="539" y="0" width="840" height="1032" key="search.everywhere.popup" timestamp="1606007936493">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
