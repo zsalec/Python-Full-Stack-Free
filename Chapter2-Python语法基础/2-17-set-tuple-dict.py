@@ -168,7 +168,7 @@ sa = {1, 2, 3, 4, 5, 6}
 sb = {4, 5, 6, 7, 8, 9}
 print(sa.intersection(sb))  # {4, 5, 6}
 print(sa & sb)  # {4, 5, 6}
-# -- difference 差集
+# -- difference  差集
 print(sa.difference(sb))  # {1, 2, 3}
 print(sa - sb)  # {1, 2, 3}
 # -- union 并集

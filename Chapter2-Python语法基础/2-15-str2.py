@@ -15,6 +15,7 @@ print(s.format(name='Tom', url='http://www.cnczcp.com', teacher='Alec Wang'))
 dic = {'name': 'Tommy',
        'url': 'http://www.cnczcp.com',
        'teacher': 'Alec Wang'}
+# ** 解包
 s = 'I am {name}, my website is {url}, {teacher} is handsome'.format(**dic)
 print(s)
 

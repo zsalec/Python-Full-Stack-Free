@@ -21,9 +21,13 @@ except ValueError as e:
     print('error', e)
 
 help(str.rfind)
+help(str.lfind)
 
 # - 判断类函数
 # -- isalpha
+#   - 至少包含一个字符，如果没有，同样返回 False
+#   - 汉字认为是 alpha
+#   - 注意使用区别，防止被坑（不包含数字，符号，空格，特殊字符
 s1 = 'a prime python'
 print(s1.isalpha())
 s2 = '!@#'
@@ -31,7 +35,26 @@ print(s2.isalpha())
 s3 = 'abc'
 print(s3.isalpha())
 
+'''
+- isdigita, isnumeric, isdecimal 判断数字的函数
+    Unicode 数字，byte 数字，全角数字（双字节），罗马数字，汉字数字
+- islower 小写字符
+- startswith/endswith: 判断开头/结尾字符串
+- isupper 大写字符
+- strip/lstrip/rstrip 删除空字符
+- join 拼接
+'''
+
+'''
 # List 列表
+- 一组由有序数据组成的序列
+    - 数据有先后顺序
+    - 数据可以不是一类数据
+- list 的创建
+    - 直接创建
+    - 使用 list 函数创建
+    - 字符串是一个特殊的列表
+'''
 help(list)
 l1 = [1, 2, 3, 4, 5]
 print(l1)

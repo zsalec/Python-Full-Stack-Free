@@ -19,8 +19,18 @@
 # -- 动作：函数
 # -- 属性：变量
 
+# - is-a
+
+'''
+# 定义类： class 关键字
+# 类命名
+- 大驼峰命名法
+'''
+
 # - 类定义
 class Student:
+    # 此处定义一个空类
+    # pass 是关键字，表示占位用的，无意义
     pass
 
 
@@ -33,6 +43,11 @@ class PythonStudent:
     age = 18
     course = 'Python'
 
+    '''
+    定义类中的函数
+    一般需要有 self 关键字
+    其余跟普通函数基本相同
+    '''
     def give_money(self):
         pass
 

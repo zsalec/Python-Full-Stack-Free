@@ -20,6 +20,14 @@ if score < 60:
     print('You are not my student!')
 
 # 多路分支
+# - 很多分支的情况，叫多路分支
+# if 条件1:
+#   语句块1
+# elif 条件2:
+#   语句块2
+# ...
+# else:
+#   语句块n
 score = input('Please input your score: ')
 score = int(score)
 if score >= 90:
@@ -33,11 +41,22 @@ elif score >= 60:
 else:
     print('You are not my student!')
 
-# 循环结构 Cyclic
+# if 语句补充
+# if 语句可以嵌套使用，（不推荐）
+# Python 没有 switch 语句
+
+# 循环语句
+# - 重复执行某一个固定的动作或者任务
+# - 分类
 # - while
 # - for
 
 # for 循环
+# - 语法
+#   for 变量 in 序列:
+#       语句块
+
+# for 案例
 list_one = [1, 2, 3, 4, 5, 6, 7]
 for num in list_one:
     print(num)

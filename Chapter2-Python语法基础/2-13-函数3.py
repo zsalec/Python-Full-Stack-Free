@@ -21,6 +21,28 @@ def table99():
 table99()
 table99()
 
+# 改造上面的函数
+def printLine(row: int):
+    '''
+    # 打印一行乘法表
+    # row int 行号
+    '''
+    for c in range(1, row + 1):
+        print(f'{row} * {c} = {row * c}', end='  ')
+    print()
+    return None
+
+
+def table99_new():
+    '''
+    打印九九乘法表（改造）
+    '''
+    for row in range(1, 10):
+        printLine(row)
+    return None
+
+table99_new()
+
 
 # 参数详解
 # - 普通参数
